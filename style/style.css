@@ -561,6 +561,7 @@ section {
         font-size: 13pt;
         padding: 7px 0; }
       section:nth-of-type(3) #gallery .mix {
+
         display: none;
         position: relative; }
         section:nth-of-type(3) #gallery .mix .waypoint {
@@ -781,6 +782,7 @@ footer {
 
 @media screen and (max-width: 400px) {
   section:nth-of-type(3) #gallery .mix .card {
+    margin:5px;
     width: 100vw; } }
 @media screen and (min-width: 600px) {
   body {
