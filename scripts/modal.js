@@ -24,7 +24,7 @@ $(document).ready(function(){
       title: 'Easy2Employ',
       tag: 'Hiring made easy',
       detail: 'E2E is an online web based solution to efficiently maintain resume database, track the interviews and to maintain ongoing coordination with the candidates. HR ensures that all the hiring needs are filled through use of this system. It is the starting point of an employee’s entry to the organization.',
-      link: 'https://career.easy2employ.com/'s
+      link: 'https://career.easy2employ.com/'
     },
     topalarams: {
       title: 'Top Alarm Systems Compare',
